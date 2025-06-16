@@ -1,0 +1,2 @@
+# .github
+cross-repository information
